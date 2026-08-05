@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "942c5660efeb25de",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c3fd2e6c1afacd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c97c8e060e450f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2008年考研英语一阅读精翻.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2008年考研英语一阅读精翻"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae9ec5689abf43c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a4b552444d8a88a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e981585dd36ef682",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "bcd6927237b28eaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "35bdc19ccd185f98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "87c247d627248823",
+    "type": "split",
+    "children": [
+      {
+        "id": "379b95d8f5372b0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "497f34319886bd2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2005年考研英语一阅读精翻.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2005年考研英语一阅读精翻 的反向链接列表"
+            }
+          },
+          {
+            "id": "1d7b197ddfc1d643",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2005年考研英语一阅读精翻.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2005年考研英语一阅读精翻 的出链列表"
+            }
+          },
+          {
+            "id": "4f6d0e9d449e3723",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "033e16e1333c5443",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8a4b881662facd7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2005年考研英语一阅读精翻.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2005年考研英语一阅读精翻 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "3c97c8e060e450f9",
+  "lastOpenFiles": [
+    "真题/2026年考研英语一真题.pdf",
+    "真题/2025年考研英语一真题.pdf",
+    "真题/2024年考研英语一真题.pdf",
+    "真题/2023年考研英语一真题.pdf",
+    "真题/2022年考研英语一真题.pdf",
+    "真题/2021年考研英语一真题.pdf",
+    "真题/2020年考研英语一真题.pdf",
+    "真题/2019年考研英语一真题.pdf",
+    "真题/2018年考研英语一真题.pdf",
+    "真题/2017年考研英语一真题.pdf",
+    "真题/2016年考研英语一真题.pdf",
+    "2009年考研英语一阅读精翻.md",
+    "2008年考研英语一阅读精翻.md",
+    "2026年考研英语一阅读精翻.md",
+    "2025年考研英语一阅读精翻.md",
+    "2021年考研英语一阅读精翻.md",
+    "2023年考研英语一阅读精翻.md",
+    "2016年考研英语一阅读精翻.md",
+    "2019年考研英语一阅读精翻.md",
+    "2020年考研英语一阅读精翻.md",
+    "2007年考研英语一阅读精翻.md",
+    "2013年考研英语一阅读精翻.md",
+    "2014年考研英语一阅读精翻.md",
+    "2006年考研英语一阅读精翻.md",
+    "2011年考研英语一阅读精翻.md",
+    "2010年考研英语一阅读精翻.md",
+    "2005年考研英语一阅读精翻.md",
+    "不会单词.md",
+    "README.md"
+  ]
+}
